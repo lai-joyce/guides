@@ -51,3 +51,8 @@ Since there are no whole numbers between 6 and 7, all of the positive factors ha
 1 | 2 | 3 | 6 | 7 | 14 | 21 | 42 | -1 | -2 | -3 | -6 | -7 | -14 | -21 | -42
  --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
+## Magic Way to Determine the Total Number of Factors of a Number
+
+How many factors does a given number have?  As a follow-up to the above, here is an example of how to calculate the number of factors of a number using first prime factorization and then adding 1 to the exponents before multiplying them: 
+
+Prime factorization of 36 = 3^2 * 2^2. So, the number of factors of 36 = (2+1)(2+1) = 9.
