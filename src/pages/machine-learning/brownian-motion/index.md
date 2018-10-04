@@ -3,13 +3,8 @@ title: Brownian Motion
 ---
 ## Brownian Motion
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/machine-learning/brownian-motion/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+Brownian motion or pedesis is the random motion of particles suspended in a fluid resulting from their collision with the fast-moving molecules in the fluid. This pattern of motion typically alternates random fluctuations in a particle's position inside a fluid sub-domain with a relocation to another sub-domain.
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
-
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
-
-#### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
+<a href ='https://en.wikipedia.org/wiki/Brownian_motion'>Wikipedia Reference Article</a>
 
 
