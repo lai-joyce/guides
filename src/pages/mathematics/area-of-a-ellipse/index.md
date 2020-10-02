@@ -10,6 +10,7 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 <!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
 
 #### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
+https://www.wikihow.com/Calculate-the-Area-of-an-Ellipse
+Area of an ellipse is the product of the 2 radii x pi
 
 
