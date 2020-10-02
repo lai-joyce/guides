@@ -1,0 +1,5 @@
+DeepChem is a Python library democratizing deep learning for science.
+
+conda install -c deepchem deepchem=2.1.0 python=3.5
+
+https://deepchem.io/docs/notebooks/index.html
