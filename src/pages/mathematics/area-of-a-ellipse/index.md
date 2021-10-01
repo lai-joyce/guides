@@ -13,5 +13,5 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 https://www.wikihow.com/Calculate-the-Area-of-an-Ellipse
 Area of an ellipse is the product of the 2 radii x pi
 
-Proof: https://proofwiki.org/wiki/Area_of_Ellipse
+Proof:  https://proofwiki.org/wiki/Area_of_Ellipse
 
