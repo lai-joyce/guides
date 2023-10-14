@@ -1,0 +1,74 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:debug:20170905':
+    - gatsby > react-dev-utils > detect-port-alt > debug:
+        patched: '2023-10-14T23:33:49.566Z'
+        id: 'npm:debug:20170905'
+        path: gatsby > react-dev-utils > detect-port-alt > debug
+    - babel-preset-es2015 > babel-plugin-transform-es2015-block-scoping > babel-template > babel-traverse > debug:
+        patched: '2023-10-14T23:33:49.566Z'
+        id: 'npm:debug:20170905'
+        path: >-
+          babel-preset-es2015 > babel-plugin-transform-es2015-block-scoping >
+          babel-template > babel-traverse > debug
+    - gatsby > react-dev-utils > fork-ts-checker-webpack-plugin > micromatch > braces > snapdragon > debug:
+        patched: '2023-10-14T23:33:49.566Z'
+        id: 'npm:debug:20170905'
+        path: >-
+          gatsby > react-dev-utils > fork-ts-checker-webpack-plugin > micromatch
+          > braces > snapdragon > debug
+    - gatsby > react-dev-utils > fork-ts-checker-webpack-plugin > micromatch > extglob > expand-brackets > debug:
+        patched: '2023-10-14T23:33:49.566Z'
+        id: 'npm:debug:20170905'
+        path: >-
+          gatsby > react-dev-utils > fork-ts-checker-webpack-plugin > micromatch
+          > extglob > expand-brackets > debug
+  'npm:extend:20180424':
+    - gatsby > gatsby-cli > gatsby-recipes > unified > extend:
+        patched: '2023-10-14T23:33:49.566Z'
+        id: 'npm:extend:20180424'
+        path: gatsby > gatsby-cli > gatsby-recipes > unified > extend
+  SNYK-JS-LODASH-567746:
+    - babel-preset-es2015 > babel-plugin-transform-es2015-block-scoping > lodash:
+        patched: '2023-10-14T23:33:49.566Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          babel-preset-es2015 > babel-plugin-transform-es2015-block-scoping >
+          lodash
+    - gatsby > devcert > lodash:
+        patched: '2023-10-14T23:33:49.566Z'
+        id: SNYK-JS-LODASH-567746
+        path: gatsby > devcert > lodash
+    - babel-preset-es2015 > babel-plugin-transform-es2015-block-scoping > babel-template > lodash:
+        patched: '2023-10-14T23:33:49.566Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          babel-preset-es2015 > babel-plugin-transform-es2015-block-scoping >
+          babel-template > lodash
+    - babel-preset-es2015 > babel-plugin-transform-es2015-classes > babel-helper-define-map > lodash:
+        patched: '2023-10-14T23:33:49.566Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          babel-preset-es2015 > babel-plugin-transform-es2015-classes >
+          babel-helper-define-map > lodash
+    - babel-preset-es2015 > babel-plugin-transform-es2015-sticky-regex > babel-helper-regex > lodash:
+        patched: '2023-10-14T23:33:49.566Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          babel-preset-es2015 > babel-plugin-transform-es2015-sticky-regex >
+          babel-helper-regex > lodash
+    - babel-preset-es2015 > babel-plugin-transform-es2015-block-scoping > babel-template > babel-traverse > lodash:
+        patched: '2023-10-14T23:33:49.566Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          babel-preset-es2015 > babel-plugin-transform-es2015-block-scoping >
+          babel-template > babel-traverse > lodash
+    - babel-preset-react > babel-plugin-transform-react-jsx > babel-helper-builder-react-jsx > babel-types > lodash:
+        patched: '2023-10-14T23:33:49.566Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          babel-preset-react > babel-plugin-transform-react-jsx >
+          babel-helper-builder-react-jsx > babel-types > lodash
